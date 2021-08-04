@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Interior Consultant}</h1>
+<h1 align="center">Interior Consultant</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{kleubera.github.io/interiorConsultant/}">
+    <a href="https://kleubera.github.io/interiorConsultant/">
       Demo
     </a>
     <span> | </span>
@@ -65,4 +65,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@kleuberA](https://{github.com/kleuberA})
+- GitHub [@kleuberA](https://github.com/kleuberA)
